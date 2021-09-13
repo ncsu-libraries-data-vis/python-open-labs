@@ -1,4 +1,4 @@
-# Python Open Labs: Data wrangling with Pandas
+# Python Open Labs: Exploratory Analysis with Pandas
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NCSU-Libraries/data-viz-workshops/blob/master/Python_Open_Labs/Exploratory_analysis_and_visualization_with_Pandas/Python_Open_Labs_Week3.ipynb)
 
