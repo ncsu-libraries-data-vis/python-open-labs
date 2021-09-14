@@ -22,4 +22,6 @@ To create a copy of the workshop materials, and run the code, click the "Open in
 
 These materials were developed by Claire Cahoon and Walt Gurley at the NC State University Libraries, adapted from previous workshop materials by Scott Bailey and Simon Wiles, of Stanford Libraries.
 
-The data used in this workshop consists of modified subsets of the Museum of Modern Art's (MoMA) research datasets representing all of the works and artists that have been accessioned into MoMA’s collection and cataloged in their database. These datasets were accessed via GitHub [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.4408594.svg)].
+The data used in this workshop consist of modified subsets of the Museum of Modern Art's (MoMA) research datasets representing all of the works and artists that have been accessioned into MoMA’s collection and cataloged in their database. The original datasets were accessed via the [MoMA collection GitHub repository](https://github.com/MuseumofModernArt/collection) ![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.4408594.svg).
+
+The datasets used in these materials are accessible in the [NC State University Libraries Data & Visualization Teaching Datasets repository](https://github.com/ncsu-libraries-data-vis/teaching-datasets/tree/main/moma_data).
