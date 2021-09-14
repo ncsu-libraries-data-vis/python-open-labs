@@ -4,7 +4,7 @@ These materials provide an introduction to core concepts for working with data i
 
 ## Open Lab 1: Reading, exploring, and writing data with Pandas
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NCSU-Libraries/data-viz-workshops/blob/master/Python_Open_Labs/Reading_exploring_and_writing_data_with_Pandas/Python_Open_Labs_Week1.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ncsu-libraries-data-vis/python-open-labs/blob/main/Open_Lab_1_reading_exploring_and_writing_data_with_pandas/Open_Lab_1_reading_exploring_and_writing_data_with_pandas.ipynb)
 
 In this lab we will cover an introduction to the Pandas library, including methods for reading, exploring, and writing various data formats such as tab-delimited files, Excel files, and JSON files with Pandas.
 
