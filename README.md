@@ -10,14 +10,6 @@ In this lab we will cover an introduction to the Pandas library, including metho
 
 To create a copy of the workshop materials, and run the code, click the "Open in Colab" button above, while signed in to a Google account. With the Colab notebook open, click the "Copy to Drive" button to make a copy attached to your own Google account.
 
-## Open Lab 2: Working with multiple datasets in pandas
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NCSU-Libraries/data-viz-workshops/blob/master/Python_Open_Labs/Reading_exploring_and_writing_data_with_Pandas/Python_Open_Labs_Week1.ipynb)
-
-In this lab we will cover common methods for loading, combining, and preparing different types of datasets for analyses with pandas.
-
-To create a copy of the workshop materials, and run the code, click the "Open in Colab" button above, while signed in to a Google account. With the Colab notebook open, click the "Copy to Drive" button to make a copy attached to your own Google account.
-
 ## Credits
 
 These materials were developed by Claire Cahoon and Walt Gurley at the NC State University Libraries, adapted from previous workshop materials by Scott Bailey and Simon Wiles, of Stanford Libraries.
