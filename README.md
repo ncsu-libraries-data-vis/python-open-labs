@@ -12,7 +12,7 @@ To create a copy of the workshop materials, and run the code, click the "Open in
 
 ## Open Lab 2: Working with multiple datasets in pandas
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ncsu-libraries-data-vis/python-open-labs/blob/main/Open_Lab_2_working_with_multiple_datasets_in_pandas/filled_Open_Lab_2_working_with_multiple_datasets_in_pandas.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ncsu-libraries-data-vis/python-open-labs/blob/main/Open_Lab_2_working_with_multiple_datasets_in_pandas/Open_Lab_2_working_with_multiple_datasets_in_pandas.ipynb)
 
 In this lab we will cover basic pandas methods for loading, combining, and preparing different types of datasets for analyses with pandas.
 
