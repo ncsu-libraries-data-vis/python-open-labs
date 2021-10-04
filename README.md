@@ -26,6 +26,14 @@ In this lab we will cover basic pandas methods for normalizing values, modifying
 
 To create a copy of the workshop materials, and run the code, click the "Open in Colab" button above, while signed in to a Google account. With the Colab notebook open, click the "Copy to Drive" button to make a copy attached to your own Google account.
 
+## Open Lab 4: Exploratory analysis with pandas
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ncsu-libraries-data-vis/python-open-labs/blob/main/Open_Lab_4_exploratory_analysis_with_pandas/Open_Lab_4_exploratory_analysis_with_pandas.ipynb)
+
+ In this lab we will cover common exploratory analysis methods such as calculating summary statistics and aggregating and grouping data using pandas.
+
+To create a copy of the workshop materials, and run the code, click the "Open in Colab" button above, while signed in to a Google account. With the Colab notebook open, click the "Copy to Drive" button to make a copy attached to your own Google account.
+
 ## Credits
 
 These materials were developed by Claire Cahoon and Walt Gurley at the NC State University Libraries, adapted from previous workshop materials by Scott Bailey and Simon Wiles, of Stanford Libraries.
