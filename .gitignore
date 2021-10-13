@@ -1,3 +1,7 @@
+# Specific to repository
+Open_Lab_5_visualization_with_pandas/*.png
+Open_Lab_5_visualization_with_pandas/*.svg
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
