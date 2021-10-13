@@ -30,7 +30,15 @@ To create a copy of the workshop materials, and run the code, click the "Open in
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ncsu-libraries-data-vis/python-open-labs/blob/main/Open_Lab_4_exploratory_analysis_with_pandas/Open_Lab_4_exploratory_analysis_with_pandas.ipynb)
 
- In this lab we will cover common exploratory analysis methods such as calculating summary statistics and aggregating and grouping data using pandas.
+In this lab we will cover common exploratory analysis methods such as calculating summary statistics and aggregating and grouping data using pandas.
+
+To create a copy of the workshop materials, and run the code, click the "Open in Colab" button above, while signed in to a Google account. With the Colab notebook open, click the "Copy to Drive" button to make a copy attached to your own Google account.
+
+## Open Lab 5: Visualizing data with pandas
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ncsu-libraries-data-vis/python-open-labs/blob/main/Open_Lab_5_visualization_with_pandas/Open_Lab_5_visualization_with_pandas.ipynb)
+
+In this lab we will cover how to use the pandas library with the visualization library matplotlib and other visualization libraries for exploring data.
 
 To create a copy of the workshop materials, and run the code, click the "Open in Colab" button above, while signed in to a Google account. With the Colab notebook open, click the "Copy to Drive" button to make a copy attached to your own Google account.
 
