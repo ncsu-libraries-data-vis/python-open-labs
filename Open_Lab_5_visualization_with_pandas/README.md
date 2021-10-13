@@ -1,4 +1,4 @@
-# Python Open Labs: Visualizing data with pandas
+# Python Open Labs: Visualization with pandas
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ncsu-libraries-data-vis/python-open-labs/blob/main/Open_Lab_5_visualization_with_pandas/Open_Lab_5_visualization_with_pandas.ipynb)
 
